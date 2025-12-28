@@ -371,10 +371,8 @@ I can provide:
 - Performance optimization
 
 **Contact Options:**
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: @yourhandle
-- 💬 Telegram: @yourusername
-- 🐙 GitHub Issues: Open an issue
+- 📧 Email: avtxconscience@gmail.com
+
 
 ### What I Can Help With:
 
@@ -401,4 +399,4 @@ Don't struggle alone! Reach out for personalized help to get your API running sm
 
 **Made with ❤️ for the betting analysis community**
 
-*Disclaimer: This API is for educational and analytical purposes only. Always gamble responsibly and within legal boundaries.*
+*Disclaimer: This API is for educational and analytical purposes only. Always gamble responsibly and within legal boundaries and i do not support or encourage gambling, stricly for analytical, educational and experimental purposes only.*
